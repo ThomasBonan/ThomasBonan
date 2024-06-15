@@ -47,7 +47,7 @@ Vous trouverez des rapports réguliers sur mes progrès dans les défis et les p
 ## Contact
 N'hésitez pas à me contacter pour discuter de projets, de collaborations ou de tout autre sujet lié à la cybersécurité.
 
-**LinkedIn:** Mon Profil LinkedIn
+**LinkedIn:** www.linkedin.com/in/thomas-bonan   
 **Email:** thomas.bonan@outlook.com
 
 Merci de visiter mon profil GitHub ! Je suis toujours ouvert aux nouvelles opportunités et collaborations.
