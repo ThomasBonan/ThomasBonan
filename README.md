@@ -2,7 +2,7 @@
 Je suis un étudiant en cybersécurité passionné par l'informatique et les sciences. Ce dépôt GitHub sert de vitrine pour mes projets, mes défis de type Capture The Flag (CTF) et mes progrès dans le domaine de la cybersécurité.
 
 ## À propos de moi
-- 🎓 Étudiant en cybersécurité de 23 ans
+- 🎓 Étudiant en cybersécurité de 24 ans
 - 💻 Passionné par l'informatique et les sciences
 - 🔐 Intéressé par la sécurité des réseaux, la cryptographie et le pentest
 - 🌱 Toujours en train d'apprendre et de me perfectionner
