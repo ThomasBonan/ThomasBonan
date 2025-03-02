@@ -21,9 +21,10 @@ Ce Job Path permet de voir les bases du métier de pentester en passant par les 
 **Points forts** : Ce path nous fait passer par tous les points principaux du métier de pentesteur tout en nous faisant pratiquer.  
   
 
-- Passage de l'OSCP
+- Passage de certification
 
-L'OSCP est une certification de pentester délivré par OffSec. Elle est le premier niveau de certification disponible par OffSec et permet de voir la base du pentest AD.
+Passage de la CRTE de Altered Security.
+_**En cours**_
 
 
 ## Challenges CTF
@@ -33,7 +34,11 @@ CTF Challenge 1
 
 Ce CTF a eu lieu dans le cadre de mon projet fil rouge de fin d'année en 3 ème année.  
 Compétences utilisées : Cryptographie, Docker, Go.  
-_**En cours**_ 🕐
+
+GCTF Fev 2025 : 
+
+Ce CTF a eu lieu pour les étudiants de guardia de toutes les années. Par les étudiants pour les étudiants.
+Compétences utilisées : Python, Cryptographie.
 
 ## Suivi de mes Progrès
 Je suis déterminé à suivre mes améliorations et à identifier les domaines où je peux m'améliorer.  
